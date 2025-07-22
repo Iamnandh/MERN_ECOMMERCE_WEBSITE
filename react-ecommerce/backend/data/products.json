@@ -1,0 +1,82 @@
+[{
+    "name": "OPPO Reno 6",
+    "price": 15000,
+    "description": "oppo is a great phone",
+    "ratings": 5.0,
+    "images": [{
+        "image": "/images/products/1.jpg"
+    }],
+    "category": "mobile",
+    "seller": "Realme",
+    "stock": 10
+},
+{
+    "name": "Smart Watch",
+    "price": 80000,
+    "description": "Samsung Galaxy S21 is a flagship phone",
+    "ratings": 4.5,
+    "images": [{
+        "image": "/images/products/2.jpg"
+    }],
+    "category": "mobile",
+    "seller": "apple",
+    "stock": 5
+},
+{
+    "name": "lenova laptop ",
+    "price": 90000,
+    "description": "Apple iPhone 13 with A15 chip",
+    "ratings": 4.8,
+    "images": [{
+        "image": "/images/products/3.jpg"
+    }],
+    "category": "mobile",
+    "seller": "lenova",
+    "stock": 8
+},
+{
+    "name": "Boat neckband",
+    "price": 20000,
+    "description": "good budget phone with good  spec",
+    "ratings": 4.8,
+    "images": [{
+        "image": "/images/products/4.jpg"
+    }],
+    "category": "mobile",
+    "seller": "Boat",
+    "stock": 8
+},{
+    "name": "Nike Shoes",
+    "price": 15000,
+    "description": "good budget phone with good  spec",
+    "ratings": 4.8,
+    "images": [{
+        "image": "/images/products/5.jpg"
+    }],
+    "category": "mobile",
+    "seller": "Nike",
+    "stock": 8
+},{
+    "name": "Asus laptop",
+    "price": 90000,
+    "description": "Apple iPhone 13 with A15 chip and pro max features",
+    "ratings": 4.8,
+    "images": [{
+        "image": "/images/products/6.jpg"
+    }],
+    "category": "mobile",
+    "seller": "Asus",
+    "stock": 8
+},{
+    "name": "HP laptop",
+    "price": 90000,
+    "description": "good budget phone with good  spec",
+    "ratings": 4.8,
+    "images": [{
+        "image": "/images/products/7.jpg"
+    }],
+    "category": "mobile",
+    "seller": "HP",
+    "stock": 8
+}
+]
